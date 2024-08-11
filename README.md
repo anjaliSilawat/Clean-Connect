@@ -1,1 +1,3 @@
-# HashItOut
+# Clean Connect
+
+Clean Connect is a web-based platform designed to optimize waste collection, promote sustainability, and enhance the efficiency of waste management processes. The platform allows users to track the status of waste bins, access educational resources, and receive notifications and alerts, fostering active participation in waste reduction initiatives. Developed using HTML, CSS, and JavaScript, Clean Connect also includes features like waste collection schedules, complaint submission, and locating nearby dustbins, empowering communities to contribute to a cleaner and greener environment.
